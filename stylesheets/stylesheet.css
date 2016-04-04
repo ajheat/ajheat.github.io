@@ -18,9 +18,10 @@ h1 {
 	top: 24%;
 	width: 100%;
 	z-index: 1;
+	font-family: "Volta W01 Medium";
 }
   
-  h1 .quote {
+  	h1 .quote {
 		
 		display: block;
 		margin: 0 auto;
