@@ -10,6 +10,16 @@ body {
   color: #606c71;
   background-image: url("/images/footer_lodyas.png");}
   
+h1 {
+	font-size: 3.5em;
+	margin: 0 auto;
+	position: fixed;
+	text-align: center;
+	top: 24%;
+	width: 100%;
+	z-index: 1;
+}
+  
   h1 .quote {
 		
 		display: block;
