@@ -36,12 +36,6 @@ h1 {
 		font-variant: small-caps;
 	}
 
-a {
-  color: #1e6bb8;
-  text-decoration: none; }
-  a:hover {
-    text-decoration: underline; }
-
 #header{
 	background-color:#fff;
 	opacity:0;
@@ -64,7 +58,7 @@ header{
 	display:table;
 }
 
-.header a{
+.header_a{
 	width:50%;
 	text-align:center;
 	display:inline-cell;
@@ -72,7 +66,7 @@ header{
 	color:#eee;
 }
 
-.header a:hover{
+.header_a:hover{
 	-webkit-animation: fadein_header 0.2s ease-in forwards;
 	-moz-animation: fadein_header 0.2s ease-in forwards;
 	-o-animation: fadein_header 0.2s ease-in forwards;
