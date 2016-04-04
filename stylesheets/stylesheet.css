@@ -64,6 +64,7 @@ header{
 	display:inline-cell;
 	float:left;
 	color:#eee;
+	text-decoration: none;
 }
 
 .header_a:hover{
