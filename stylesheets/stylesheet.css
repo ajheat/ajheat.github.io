@@ -77,4 +77,5 @@ header{
 	-o-animation: fadein_header 0.2s ease-in forwards;
 	-ms-animation: fadein_header 0.2s ease-in forwards;
 	animation: fadein_header 0.2s ease-in forwards;
+	color: #f00;
 }
