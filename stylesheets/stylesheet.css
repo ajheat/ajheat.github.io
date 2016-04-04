@@ -28,17 +28,8 @@ h1 {
 		font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	}
 
-	h1 .line {
-		display: block;
-		border-top: 2px #FFF solid;
-		margin: 30px auto;
-		overflow: hidden;
-		width: 40%; height: 4px;
-	}
-
 	h1 small {
 		display: block;
-		margin-top: 20px;
 		font-size: 50%;
 		font-family: Georgia, serif;
 		font-weight: bold;
