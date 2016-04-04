@@ -58,9 +58,9 @@ a {
 header{
 	z-index: 9999;
 	position:fixed;
-	font-size:28px;
+	font-size:32px;
 	width: 100%;
-	color: #000;
+	color: #eee;
 	display:table;
 }
 
@@ -69,7 +69,7 @@ header{
 	text-align:center;
 	display:inline-cell;
 	float:left;
-	color:#000;
+	color:#eee;
 }
 
 .header_a:hover{
