@@ -67,7 +67,7 @@ header{
 	text-align:center;
 	display:inline-cell;
 	float:left;
-	color:#eee;
+	color:#888;
 	text-decoration: none;
 }
 
@@ -77,5 +77,4 @@ header{
 	-o-animation: fadein_header 0.2s ease-in forwards;
 	-ms-animation: fadein_header 0.2s ease-in forwards;
 	animation: fadein_header 0.2s ease-in forwards;
-	color: #f00;
 }
