@@ -53,8 +53,8 @@ h1 {
 	position:absolute;
 	width:100%;
 	top:100vh;
-	background-color: #000;
-	height:100vh;
+	background-color: #fff;
+	color: #eee;
 }
 
 #header-bg{
