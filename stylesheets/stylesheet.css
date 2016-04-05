@@ -55,6 +55,9 @@ h1 {
 	color: #000;
 	padding-left:100px;
 	padding-right:100px;
+	p{
+		text-indent:30px;
+	}
 }
 
 .divider{
@@ -94,9 +97,6 @@ h1 {
 
 #bio{
 	text-align:left;
-	p{
-		text-indent:30px;
-	}
 }
 
 #header-bg{
