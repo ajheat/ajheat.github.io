@@ -55,7 +55,10 @@ h1 {
 	top:100vh;
 	background-color: #fff;
 	color: #000;
-	opacity: 0.75;
+	
+	p{
+		opacity: 0.75;
+	}
 }
 
 #header-bg{
