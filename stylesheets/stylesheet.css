@@ -40,6 +40,11 @@ h1 {
 		font-variant: small-caps;
 	}
 	
+.scrolling{
+	overflow-y: scroll;
+	-webkit-overflow: scroll;
+}
+	
 .main-content{
 	z-index:-2;
 	text-align: center;
