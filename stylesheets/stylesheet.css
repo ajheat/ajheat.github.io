@@ -40,7 +40,7 @@ h1 {
 		font-variant: small-caps;
 	}
 
-#header{
+#header-bg{
 	background-image: url("/images/footer_lodyas.png");
 	position: fixed;
 	top: 0px;
