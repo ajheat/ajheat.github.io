@@ -58,10 +58,11 @@ h1 {
 }
 
 .divider{
-	padding-top:20px;
-	padding-bottom:20px;
+	padding-top:15px;
+	padding-bottom:12px;
 	float:left;
 	clear:both;
+	width:100%;
 }
 
 .section-title{
@@ -72,6 +73,10 @@ h1 {
 	color:#000;
 	opacity: 0.65;
 	font-size: 40px;
+}
+
+#about{
+	padding-top:25px;
 }
 
 #about-content{
