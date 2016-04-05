@@ -39,6 +39,15 @@ h1 {
 		font-weight: bold;
 		font-variant: small-caps;
 	}
+	
+.main-content{
+	z-index:-2;
+	text-align: center;
+	position:absolute;
+	width:100%;
+	top:150vh;
+	background-color: #fff;
+}
 
 #header-bg{
 	background-image: url("/images/footer_lodyas.png");
