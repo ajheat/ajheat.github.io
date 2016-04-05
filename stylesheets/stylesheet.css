@@ -53,6 +53,8 @@ h1 {
 	top:100vh;
 	background-color: #fff;
 	color: #000;
+	padding-left:100px;
+	padding-right:100px;
 }
 
 .spacer{
