@@ -71,6 +71,10 @@ h1 {
 	font-size: 40px;
 }
 
+#about-content{
+	float:left;
+}
+
 #photo{
 	padding-left:95px;
 	padding-top:10px;
@@ -81,7 +85,7 @@ h1 {
 }
 
 #bio{
-	float:left;
+	text-align:left;
 }
 
 #header-bg{
