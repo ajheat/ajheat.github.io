@@ -89,6 +89,16 @@ h1 {
 	float:left;
 }
 
+.project-img{
+	padding-left:115px;
+	padding-top:10px;
+	padding-right:25px;
+	width:15%;
+	height:auto;
+	float:left;
+	clear:left;
+}
+
 .project-desc{
 	text-align:left;
 }
@@ -104,10 +114,9 @@ h1 {
 #photo{
 	padding-left:60px;
 	padding-top:10px;
-	padding-right:15px;
+	padding-right:25px;
 	float:left;
 	clear:left;
-	padding-right:40px;
 }
 
 #bio{
