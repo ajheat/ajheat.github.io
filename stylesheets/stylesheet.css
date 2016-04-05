@@ -16,6 +16,10 @@ a {
   color: #1e6bb8;
   text-decoration: none; }
   
+a:hover{
+	text-decoration: underline;
+}
+  
 h1 {
 	font-size: 3.5em;
 	margin: 0 auto;
@@ -122,6 +126,16 @@ h1 {
 	text-align:left;
 }
 
+#footer{
+	padding-top:25px;
+	padding-bottom:100px;
+	position:relative;
+	background-color: #888;
+	color:#fff;
+	font-size:20px;
+	text-align:center;
+}
+
 #header-bg{
 	background-image: url("/images/footer_lodyas.png");
 	z-index: -1;
@@ -157,6 +171,7 @@ header{
 	-o-animation: link_hover_fade 0.2s ease-in forwards;
 	-ms-animation: link_hover_fade 0.2s ease-in forwards;
 	animation: link_hover_fade 0.2s ease-in forwards;
+	text-decoration:none;
 }
 
 @keyframes link_hover_fade {
