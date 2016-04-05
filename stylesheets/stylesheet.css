@@ -103,6 +103,7 @@ h1 {
 
 .project-desc{
 	text-align:left;
+	overflow:hidden;
 }
 
 #about-content{
