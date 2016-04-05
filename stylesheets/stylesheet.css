@@ -80,6 +80,10 @@ h1 {
 	padding-right:40px;
 }
 
+#bio{
+	float:left;
+}
+
 #header-bg{
 	background-image: url("/images/footer_lodyas.png");
 	z-index: -1;
