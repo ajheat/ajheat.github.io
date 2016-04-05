@@ -65,15 +65,14 @@ h1 {
 	text-align:center;
 	display:inline-cell;
 	float:left;
-	clear:left;
-	clear:right;
+	clear:both;
 	color:#000;
 	opacity: 0.65;
 	font-size: 40px;
 }
 
 #photo{
-	padding-left:80px;
+	padding-left:110px;
 	float:left;
 	clear:left;
 	padding-right:40px;
