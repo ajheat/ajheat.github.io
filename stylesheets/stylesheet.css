@@ -61,6 +61,15 @@ h1 {
 	}
 }
 
+.section-title{
+	width:50%;
+	text-align:center;
+	display:inline-cell;
+	float:left;
+	color:#000;
+	opacity: 0.5;
+}
+
 #header-bg{
 	background-image: url("/images/footer_lodyas.png");
 	z-index: -1;
