@@ -66,9 +66,17 @@ h1 {
 	padding-bottom:35px;
 }
 
-.divider{
+.divider-line{
 	padding-top:15px;
 	padding-bottom:12px;
+	float:left;
+	clear:both;
+	width:100%;
+}
+
+.divider{
+	padding-top:30px;
+	padding-bottom:15px;
 	float:left;
 	clear:both;
 	width:100%;
@@ -133,12 +141,15 @@ h1 {
 	padding-top:15px;
 	padding-bottom:30px;
 	position:relative;
-	background-color: #888;
-	color:#fff;
+	background-color: #333;
+	color:#eee;
 	font-size:20px;
 	text-align:center;
 	float:center;
 	clear:both;
+	a{
+		opacity:0.6;
+	}
 }
 
 #header-bg{
