@@ -66,13 +66,20 @@ header{
 	display:inline-cell;
 	float:left;
 	color:#eee;
+	opacity: 0.5;
 	text-decoration: none;
 }
 
 .header_a:hover{
-	-webkit-animation: fadein_header 0.2s ease-in forwards;
-	-moz-animation: fadein_header 0.2s ease-in forwards;
-	-o-animation: fadein_header 0.2s ease-in forwards;
-	-ms-animation: fadein_header 0.2s ease-in forwards;
-	animation: fadein_header 0.2s ease-in forwards;
+	-webkit-animation: link_hover_fade 0.2s ease-in forwards;
+	-moz-animation: link_hover_fade 0.2s ease-in forwards;
+	-o-animation: link_hover_fade 0.2s ease-in forwards;
+	-ms-animation: link_hover_fade 0.2s ease-in forwards;
+	animation: link_hover_fade 0.2s ease-in forwards;
+}
+
+@keyframes link_hover_fade {
+  to {
+  	opacity: 1;
+  }
 }
