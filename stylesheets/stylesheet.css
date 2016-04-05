@@ -59,11 +59,10 @@ h1 {
 
 .spacer{
 	height:35px;
-	width:100%;
 }
 
 .section-title{
-	width:20%;
+	padding-left:80px;
 	text-align:center;
 	display:inline-cell;
 	float:left;
