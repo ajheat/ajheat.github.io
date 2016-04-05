@@ -66,9 +66,17 @@ h1 {
 	display:inline-cell;
 	float:left;
 	clear:left;
+	clear:right;
 	color:#000;
 	opacity: 0.65;
 	font-size: 40px;
+}
+
+#photo{
+	padding-left:80px;
+	float:left;
+	clear:left;
+	padding-right:40px;
 }
 
 #header-bg{
