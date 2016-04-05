@@ -94,6 +94,9 @@ h1 {
 
 #bio{
 	text-align:left;
+	p{
+		text-indent:30px;
+	}
 }
 
 #header-bg{
