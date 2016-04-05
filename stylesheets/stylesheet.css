@@ -42,6 +42,7 @@ h1 {
 
 #header-bg{
 	background-image: url("/images/footer_lodyas.png");
+	z-index: -1;
 	position: fixed;
 	top: 0px;
 	height: 32px;
