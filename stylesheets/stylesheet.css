@@ -85,6 +85,14 @@ h1 {
 	font-size: 30px;
 }
 
+.project-content{
+	float:left;
+}
+
+.project-desc{
+	text-align:left;
+}
+
 #about{
 	padding-top:25px;
 }
