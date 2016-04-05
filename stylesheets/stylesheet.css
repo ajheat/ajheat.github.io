@@ -49,13 +49,16 @@ h1 {
 	overflow-y: scroll;
 	-webkit-overflow: scroll;
 }
-	
-.main-content{
+
+#moving-pane{
+	background-color: #fff;
 	z-index:-2;
 	position:absolute;
 	width:100%;
 	top:100vh;
-	background-color: #fff;
+}
+	
+.main-content{
 	color: #000;
 	padding-left:100px;
 	padding-right:100px;
