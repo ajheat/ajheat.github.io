@@ -55,19 +55,16 @@ h1 {
 	top:100vh;
 	background-color: #fff;
 	color: #000;
-	
-	p{
-		opacity: 0.75;
-	}
 }
 
 .section-title{
-	width:50%;
+	width:20%;
 	text-align:center;
 	display:inline-cell;
 	float:left;
 	color:#000;
 	opacity: 0.5;
+	font-size: 32px;
 }
 
 #header-bg{
@@ -84,14 +81,13 @@ h1 {
 header{
 	z-index: 9999;
 	position: fixed;
-	font-size: 32px;
 	width: 100%;
-	color: #eee;
 	display: table;
 }
 
 .header_a{
 	width:50%;
+	font-size: 32px;
 	text-align:center;
 	display:inline-cell;
 	float:left;
