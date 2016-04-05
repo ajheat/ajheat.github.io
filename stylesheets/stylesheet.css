@@ -94,10 +94,6 @@ h1 {
 	font-size: 30px;
 }
 
-.project-content{
-	float:left;
-}
-
 .project-img{
 	padding-left:115px;
 	padding-top:10px;
@@ -111,10 +107,6 @@ h1 {
 .project-desc{
 	text-align:left;
 	overflow:hidden;
-}
-
-#about-content{
-	float:left;
 }
 
 #photo{
