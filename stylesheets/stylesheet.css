@@ -58,13 +58,12 @@ h1 {
 }
 
 .section-title{
-	width:20%;
 	text-align:center;
 	display:inline-cell;
 	float:left;
 	color:#000;
-	opacity: 0.5;
-	font-size: 32px;
+	opacity: 0.8;
+	font-size: 40px;
 }
 
 #header-bg{
